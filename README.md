@@ -1,5 +1,5 @@
 Backroad Project
 
-This project build durring the learning of React.
+This project was built during the learning of React.
 
-this project is a beutifull website for travel purpose
+This project is a beautiful website for travel purposes
